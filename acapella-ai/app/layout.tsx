@@ -49,7 +49,7 @@ export default function RootLayout({
               </div>
             </div>
             <div className="flex items-center gap-4">
-              <button className="button button-primary">Начать</button>
+              <button className="button button-primary" href="https://627cbeb2206798.lhr.life/">Начать</button>
             </div>
           </div>
         </nav>
